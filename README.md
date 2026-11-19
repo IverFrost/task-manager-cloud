@@ -55,7 +55,7 @@ The frontend communicates with the FastAPI backend through HTTP requests. The ba
 Clone the repository:
 
 ```
-git clone <REPOSITORY_URL>
+git clone https://github.com/IverFrost/task-manager-cloud.git
 cd task-manager-cloud
 ```
 
